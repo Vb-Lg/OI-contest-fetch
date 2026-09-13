@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789279157,
+  "generated_at": 1789299660,
   "contests": [
     {
       "platform": "UOJ",
@@ -16,38 +16,6 @@
       "end_time": 1788667200,
       "status": "finished",
       "url": "https://uoj.ac/contest/113"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/08/14 16:00start",
-      "start_time": 1786690800,
-      "end_time": 1786694400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260814_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/08/14 16:00start",
-      "start_time": 1786690800,
-      "end_time": 1786694400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260814_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/08/14 18:00start",
-      "start_time": 1786698000,
-      "end_time": 1786701600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260814_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/08/14 18:00start",
-      "start_time": 1786698000,
-      "end_time": 1786701600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260814_2"
     },
     {
       "platform": "AtCoder",
@@ -1082,19 +1050,11 @@
       "url": "https://codeforces.com/contests/2263"
     },
     {
-      "platform": "AtCoder",
-      "title": "AtCoder Heuristic Contest 071",
-      "start_time": 1789293600,
-      "end_time": 1789308000,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/ahc071"
-    },
-    {
       "platform": "Nowcoder",
       "title": "牛客周赛 Round 161",
       "start_time": 1789297200,
       "end_time": 1789304400,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://ac.nowcoder.com/acm/contest/140235"
     },
     {
