@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789365998,
+  "generated_at": 1789389480,
   "contests": [
     {
       "platform": "UOJ",
@@ -1011,6 +1011,14 @@
     },
     {
       "platform": "AtCoder",
+      "title": "JOI 2026/2027 一次予選 (第1回) 過去問",
+      "start_time": 1789189200,
+      "end_time": 1789194000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/joi2027yo1a"
+    },
+    {
+      "platform": "AtCoder",
       "title": "AtCoder Beginner Contest 475",
       "start_time": 1789214400,
       "end_time": 1789220400,
@@ -1056,6 +1064,46 @@
       "end_time": 1789326300,
       "status": "finished",
       "url": "https://codeforces.com/contests/2264"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/14 16:00start",
+      "start_time": 1789369200,
+      "end_time": 1789372800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260914_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/14 16:00start",
+      "start_time": 1789369200,
+      "end_time": 1789372800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260914_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/14 18:00start",
+      "start_time": 1789376400,
+      "end_time": 1789380000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260914_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/14 18:00start",
+      "start_time": 1789376400,
+      "end_time": 1789380000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260914_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0156 Beta",
+      "start_time": 1789383600,
+      "end_time": 1789387200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0156"
     },
     {
       "platform": "Nowcoder",
