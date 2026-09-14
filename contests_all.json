@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789409578,
+  "generated_at": 1789422839,
   "contests": [
     {
       "platform": "UOJ",
@@ -1128,6 +1128,14 @@
       "end_time": 1789914600,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/arc230"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "Codeforces Round (Div. 3)",
+      "start_time": 1790001300,
+      "end_time": 1790010300,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2266"
     },
     {
       "platform": "AtCoder",
