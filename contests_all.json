@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789466981,
+  "generated_at": 1789484677,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,14 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Regular Contest 227",
-      "start_time": 1786881600,
-      "end_time": 1786888800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/arc227"
     },
     {
       "platform": "AtCoder",
@@ -1112,6 +1104,30 @@
       "end_time": 1789459200,
       "status": "finished",
       "url": "https://atcoder.jp/contests/adt_easy_20260915_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/15 18:00start",
+      "start_time": 1789462800,
+      "end_time": 1789466400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260915_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/15 18:00start",
+      "start_time": 1789462800,
+      "end_time": 1789466400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260915_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0157 Beta",
+      "start_time": 1789470000,
+      "end_time": 1789473600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0157"
     },
     {
       "platform": "Nowcoder",
