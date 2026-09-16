@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789535366,
+  "generated_at": 1789552948,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,38 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/08/17 16:00start",
-      "start_time": 1786950000,
-      "end_time": 1786953600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260817_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/08/17 16:00start",
-      "start_time": 1786950000,
-      "end_time": 1786953600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260817_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/08/17 18:00start",
-      "start_time": 1786957200,
-      "end_time": 1786960800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260817_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/08/17 18:00start",
-      "start_time": 1786957200,
-      "end_time": 1786960800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260817_2"
     },
     {
       "platform": "AtCoder",
@@ -1128,6 +1096,22 @@
       "end_time": 1789473600,
       "status": "finished",
       "url": "https://atcoder.jp/contests/awc0157"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/16 16:00start",
+      "start_time": 1789542000,
+      "end_time": 1789545600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260916_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/16 16:00start",
+      "start_time": 1789542000,
+      "end_time": 1789545600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260916_1"
     },
     {
       "platform": "Nowcoder",
