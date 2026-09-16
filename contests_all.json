@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789583404,
+  "generated_at": 1789594742,
   "contests": [
     {
       "platform": "UOJ",
@@ -1272,6 +1272,30 @@
       "end_time": 1791642600,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/arc232"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "Codeforces Round (Div. 1)",
+      "start_time": 1791644700,
+      "end_time": 1791655500,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2271"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "Codeforces Round (Div. 2)",
+      "start_time": 1791644700,
+      "end_time": 1791655500,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2272"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "Codeforces Round (Div. 2)",
+      "start_time": 1791743700,
+      "end_time": 1791752700,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2270"
     },
     {
       "platform": "AtCoder",
