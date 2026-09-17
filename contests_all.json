@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789638034,
+  "generated_at": 1789655302,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,30 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/08/18 18:00start",
-      "start_time": 1787043600,
-      "end_time": 1787047200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260818_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/08/18 18:00start",
-      "start_time": 1787043600,
-      "end_time": 1787047200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260818_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0137 Beta",
-      "start_time": 1787050800,
-      "end_time": 1787054400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0137"
     },
     {
       "platform": "Nowcoder",
@@ -1122,6 +1098,30 @@
       "url": "https://atcoder.jp/contests/adt_easy_20260917_1"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/17 18:00start",
+      "start_time": 1789635600,
+      "end_time": 1789639200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260917_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/17 18:00start",
+      "start_time": 1789635600,
+      "end_time": 1789639200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260917_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0159 Beta",
+      "start_time": 1789642800,
+      "end_time": 1789646400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0159"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客练习赛157",
       "start_time": 1789729200,
@@ -1299,11 +1299,19 @@
     },
     {
       "platform": "Codeforces",
+      "title": "Codeforces Round (Div. 1)",
+      "start_time": 1791743700,
+      "end_time": 1791752700,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2273"
+    },
+    {
+      "platform": "Codeforces",
       "title": "Codeforces Round (Div. 2)",
       "start_time": 1791743700,
       "end_time": 1791752700,
       "status": "upcoming",
-      "url": "https://codeforces.com/contests/2270"
+      "url": "https://codeforces.com/contests/2274"
     },
     {
       "platform": "AtCoder",
