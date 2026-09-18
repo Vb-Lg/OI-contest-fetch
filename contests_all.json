@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789732037,
+  "generated_at": 1789744340,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,22 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0138 Beta",
-      "start_time": 1787137200,
-      "end_time": 1787140800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0138"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客2026年七夕节比赛",
-      "start_time": 1787137200,
-      "end_time": 1787144400,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/139172"
     },
     {
       "platform": "AtCoder",
@@ -1114,11 +1098,35 @@
       "url": "https://atcoder.jp/contests/adt_easy_20260918_2"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0160 Beta",
+      "start_time": 1789729200,
+      "end_time": 1789732800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0160"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder 企業対抗リーグ 2026 第2戦",
+      "start_time": 1789729200,
+      "end_time": 1789736400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/c-league2026-2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder 企業対抗リーグ 2026 第2戦(オープンコンテスト)",
+      "start_time": 1789729200,
+      "end_time": 1789736400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/c-league2026-2-open"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客练习赛157",
       "start_time": 1789729200,
       "end_time": 1789738200,
-      "status": "running",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/140236"
     },
     {
