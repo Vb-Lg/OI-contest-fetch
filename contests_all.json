@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789826407,
+  "generated_at": 1789837900,
   "contests": [
     {
       "platform": "UOJ",
@@ -1088,6 +1088,14 @@
       "end_time": 1789738200,
       "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/140236"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "JIJプログラミングコンテスト 2026（AtCoder Beginner Contest 476）",
+      "start_time": 1789819200,
+      "end_time": 1789825200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/abc476"
     },
     {
       "platform": "Nowcoder",
