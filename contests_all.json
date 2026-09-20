@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789887938,
+  "generated_at": 1789906582,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,46 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/08/21 16:00start",
-      "start_time": 1787295600,
-      "end_time": 1787299200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260821_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/08/21 16:00start",
-      "start_time": 1787295600,
-      "end_time": 1787299200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260821_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/08/21 18:00start",
-      "start_time": 1787302800,
-      "end_time": 1787306400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260821_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/08/21 18:00start",
-      "start_time": 1787302800,
-      "end_time": 1787306400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260821_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0140 Beta",
-      "start_time": 1787310000,
-      "end_time": 1787313600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0140"
     },
     {
       "platform": "Nowcoder",
@@ -1102,16 +1062,8 @@
       "title": "牛客周赛 Round 162",
       "start_time": 1789902000,
       "end_time": 1789909200,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://ac.nowcoder.com/acm/contest/140489"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Regular Contest++ 230",
-      "start_time": 1789905600,
-      "end_time": 1789914600,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/arc230"
     },
     {
       "platform": "Codeforces",
