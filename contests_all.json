@@ -1,5 +1,5 @@
 {
-  "generated_at": 1789906582,
+  "generated_at": 1789920896,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,14 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客小白月赛136",
-      "start_time": 1787310000,
-      "end_time": 1787317200,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/139208"
     },
     {
       "platform": "AtCoder",
@@ -1062,8 +1054,16 @@
       "title": "牛客周赛 Round 162",
       "start_time": 1789902000,
       "end_time": 1789909200,
-      "status": "running",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/140489"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Regular Contest++ 230",
+      "start_time": 1789905600,
+      "end_time": 1789914600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/arc230"
     },
     {
       "platform": "Codeforces",
@@ -1176,6 +1176,14 @@
       "end_time": 1791122400,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/arc231"
+    },
+    {
+      "platform": "UOJ",
+      "title": "UOJ Easy Round #14",
+      "start_time": 1791284400,
+      "end_time": 1791295200,
+      "status": "upcoming",
+      "url": "https://uoj.ac/contest/114"
     },
     {
       "platform": "AtCoder",
