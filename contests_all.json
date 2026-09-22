@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790058032,
+  "generated_at": 1790077923,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,14 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "第七回日本最強プログラマー学生選手権 -決勝-",
-      "start_time": 1787461800,
-      "end_time": 1787472600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/jsc2026-final"
     },
     {
       "platform": "Nowcoder",
@@ -1107,6 +1099,38 @@
     },
     {
       "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/22 16:00start",
+      "start_time": 1790060400,
+      "end_time": 1790064000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260922_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/22 16:00start",
+      "start_time": 1790060400,
+      "end_time": 1790064000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260922_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/22 18:00start",
+      "start_time": 1790067600,
+      "end_time": 1790071200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260922_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/22 18:00start",
+      "start_time": 1790067600,
+      "end_time": 1790071200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260922_2"
+    },
+    {
+      "platform": "AtCoder",
       "title": "ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
       "start_time": 1790330400,
       "end_time": 1791194400,
@@ -1240,6 +1264,14 @@
       "end_time": 1791655500,
       "status": "upcoming",
       "url": "https://codeforces.com/contests/2272"
+    },
+    {
+      "platform": "Nowcoder",
+      "title": "牛客周赛 Round 164",
+      "start_time": 1791716400,
+      "end_time": 1791723600,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/141142"
     },
     {
       "platform": "AtCoder",
