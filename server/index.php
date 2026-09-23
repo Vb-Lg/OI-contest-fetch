@@ -1,7 +1,7 @@
 <?php
 // ========== 配置 ==========
 // 你的 GitHub 仓库 Raw 文件地址（必须公开仓库）
-define('JSON_URL', 'https://raw.githubusercontent.com/hanyixuanten/OI-contest-fetch/master/contests_all.json');
+define('JSON_URL', 'https://raw.githubusercontent.com/Vb-Lg/OI-contest-fetch/master/contests_all.json');
 // 缓存文件路径（与 index.php 同目录，需可写）
 define('CACHE_FILE', __DIR__ . '/contests_all_cache.json');
 // 缓存有效期（秒），这里设 5 分钟
