@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790124795,
+  "generated_at": 1790142689,
   "contests": [
     {
       "platform": "UOJ",
@@ -1226,6 +1226,14 @@
       "url": "https://atcoder.jp/contests/abc478"
     },
     {
+      "platform": "Nowcoder",
+      "title": "牛客周赛 Round 164",
+      "start_time": 1791111600,
+      "end_time": 1791118800,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/141142"
+    },
+    {
       "platform": "AtCoder",
       "title": "AtCoder Regular Contest 231",
       "start_time": 1791115200,
@@ -1264,14 +1272,6 @@
       "end_time": 1791655500,
       "status": "upcoming",
       "url": "https://codeforces.com/contests/2272"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客周赛 Round 164",
-      "start_time": 1791716400,
-      "end_time": 1791723600,
-      "status": "upcoming",
-      "url": "https://ac.nowcoder.com/acm/contest/141142"
     },
     {
       "platform": "AtCoder",
