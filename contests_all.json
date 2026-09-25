@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790332220,
+  "generated_at": 1790350215,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,14 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0143 Beta",
-      "start_time": 1787742000,
-      "end_time": 1787745600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0143"
     },
     {
       "platform": "AtCoder",
@@ -1130,11 +1122,19 @@
       "url": "https://atcoder.jp/contests/adt_easy_20260925_2"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0165 Beta",
+      "start_time": 1790334000,
+      "end_time": 1790337600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0165"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客挑战赛92",
       "start_time": 1790334000,
       "end_time": 1790344800,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/140237"
     },
     {
@@ -1142,7 +1142,7 @@
       "title": "Codeforces Round 1123 (Div. 2)",
       "start_time": 1790346900,
       "end_time": 1790355000,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://codeforces.com/contests/2267"
     },
     {
