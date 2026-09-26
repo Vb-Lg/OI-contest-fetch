@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790421426,
+  "generated_at": 1790434786,
   "contests": [
     {
       "platform": "UOJ",
@@ -24,14 +24,6 @@
       "end_time": 1787914800,
       "status": "finished",
       "url": "https://codeforces.com/contests/2251"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0144 Beta",
-      "start_time": 1787828400,
-      "end_time": 1787832000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0144"
     },
     {
       "platform": "AtCoder",
@@ -1115,10 +1107,10 @@
     },
     {
       "platform": "AtCoder",
-      "title": "UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)",
+      "title": "UNICORNプログラミングコンテスト2026(AtCoder Beginner Contest 477)",
       "start_time": 1790424000,
       "end_time": 1790430000,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://atcoder.jp/contests/abc477"
     },
     {
@@ -1126,7 +1118,7 @@
       "title": "Codeforces Round 1124 (Div. 1)",
       "start_time": 1790433300,
       "end_time": 1790442300,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://codeforces.com/contests/2268"
     },
     {
@@ -1134,7 +1126,7 @@
       "title": "Codeforces Round 1124 (Div. 2)",
       "start_time": 1790433300,
       "end_time": 1790442300,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://codeforces.com/contests/2269"
     },
     {
