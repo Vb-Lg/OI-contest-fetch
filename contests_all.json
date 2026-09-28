@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790560878,
+  "generated_at": 1790584610,
   "contests": [
     {
       "platform": "UOJ",
@@ -1090,6 +1090,22 @@
       "url": "https://atcoder.jp/contests/agc078"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/28 16:00start",
+      "start_time": 1790578800,
+      "end_time": 1790582400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260928_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/28 16:00start",
+      "start_time": 1790578800,
+      "end_time": 1790582400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260928_1"
+    },
+    {
       "platform": "Nowcoder",
       "title": "2026牛客国庆集训派对day1",
       "start_time": 1790827200,
@@ -1192,6 +1208,22 @@
       "end_time": 1791795600,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/aalc001"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Heuristic Contest 073",
+      "start_time": 1792216800,
+      "end_time": 1792231200,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/ahc073"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Beginner Contest 480",
+      "start_time": 1792238400,
+      "end_time": 1792244400,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/abc480"
     },
     {
       "platform": "Codeforces",
