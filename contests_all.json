@@ -1,22 +1,6 @@
 {
-  "generated_at": 1790712121,
+  "generated_at": 1790725137,
   "contests": [
-    {
-      "platform": "UOJ",
-      "title": "UOJ Prime Round 2026",
-      "start_time": 1786154400,
-      "end_time": 1788573600,
-      "status": "finished",
-      "url": "https://uoj.ac/contest/112"
-    },
-    {
-      "platform": "UOJ",
-      "title": "UOJ Challenge #1",
-      "start_time": 1786248000,
-      "end_time": 1788667200,
-      "status": "finished",
-      "url": "https://uoj.ac/contest/113"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/08/31 16:00start",
@@ -1200,14 +1184,6 @@
       "end_time": 1791277200,
       "status": "upcoming",
       "url": "https://ac.nowcoder.com/acm/contest/140734"
-    },
-    {
-      "platform": "UOJ",
-      "title": "UOJ Easy Round #14",
-      "start_time": 1791280800,
-      "end_time": 1791293400,
-      "status": "upcoming",
-      "url": "https://uoj.ac/contest/114"
     },
     {
       "platform": "Nowcoder",
