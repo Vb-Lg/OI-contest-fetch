@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790671270,
+  "generated_at": 1790694543,
   "contests": [
     {
       "platform": "UOJ",
@@ -16,22 +16,6 @@
       "end_time": 1788667200,
       "status": "finished",
       "url": "https://uoj.ac/contest/113"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客周赛 Round 159",
-      "start_time": 1788087600,
-      "end_time": 1788094800,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/139660"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Regular Contest++ 228",
-      "start_time": 1788091200,
-      "end_time": 1788100200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/arc228"
     },
     {
       "platform": "AtCoder",
@@ -1120,6 +1104,30 @@
       "end_time": 1790668800,
       "status": "finished",
       "url": "https://atcoder.jp/contests/adt_easy_20260929_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/29 18:00start",
+      "start_time": 1790672400,
+      "end_time": 1790676000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260929_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/29 18:00start",
+      "start_time": 1790672400,
+      "end_time": 1790676000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260929_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0167 Beta",
+      "start_time": 1790679600,
+      "end_time": 1790683200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0167"
     },
     {
       "platform": "Nowcoder",
