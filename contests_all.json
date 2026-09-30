@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790758658,
+  "generated_at": 1790783497,
   "contests": [
     {
       "platform": "UOJ",
@@ -16,30 +16,6 @@
       "end_time": 1788667200,
       "status": "finished",
       "url": "https://uoj.ac/contest/113"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/08/31 18:00start",
-      "start_time": 1788166800,
-      "end_time": 1788170400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260831_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/08/31 18:00start",
-      "start_time": 1788166800,
-      "end_time": 1788170400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260831_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0146 Beta",
-      "start_time": 1788174000,
-      "end_time": 1788177600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0146"
     },
     {
       "platform": "AtCoder",
@@ -1130,6 +1106,30 @@
       "url": "https://atcoder.jp/contests/adt_easy_20260930_1"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/09/30 18:00start",
+      "start_time": 1790758800,
+      "end_time": 1790762400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20260930_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/09/30 18:00start",
+      "start_time": 1790758800,
+      "end_time": 1790762400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20260930_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0168 Beta",
+      "start_time": 1790766000,
+      "end_time": 1790769600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0168"
+    },
+    {
       "platform": "Nowcoder",
       "title": "2026牛客国庆集训派对day1",
       "start_time": 1790827200,
@@ -1216,6 +1216,14 @@
       "end_time": 1791363600,
       "status": "upcoming",
       "url": "https://ac.nowcoder.com/acm/contest/140735"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "Codeforces Round (Div. 3)",
+      "start_time": 1791383700,
+      "end_time": 1791392700,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2275"
     },
     {
       "platform": "Nowcoder",
