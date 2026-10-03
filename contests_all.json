@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791014341,
+  "generated_at": 1791033460,
   "contests": [
     {
       "platform": "UOJ",
@@ -16,46 +16,6 @@
       "end_time": 1788667200,
       "status": "finished",
       "url": "https://uoj.ac/contest/113"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/03 16:00start",
-      "start_time": 1788418800,
-      "end_time": 1788422400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260903_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/03 16:00start",
-      "start_time": 1788418800,
-      "end_time": 1788422400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260903_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/03 18:00start",
-      "start_time": 1788426000,
-      "end_time": 1788429600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260903_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/03 18:00start",
-      "start_time": 1788426000,
-      "end_time": 1788429600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260903_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0149 Beta",
-      "start_time": 1788433200,
-      "end_time": 1788436800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0149"
     },
     {
       "platform": "AtCoder",
@@ -96,14 +56,6 @@
       "end_time": 1788528600,
       "status": "finished",
       "url": "https://atcoder.jp/contests/awc0150"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客挑战赛91",
-      "start_time": 1788519600,
-      "end_time": 1788530400,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/139935"
     },
     {
       "platform": "AtCoder",
@@ -1150,16 +1102,8 @@
       "title": "2026牛客国庆集训派对day3",
       "start_time": 1791000000,
       "end_time": 1791018000,
-      "status": "running",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/140731"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Beginner Contest 478",
-      "start_time": 1791028800,
-      "end_time": 1791034800,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/abc478"
     },
     {
       "platform": "Nowcoder",
@@ -1243,7 +1187,7 @@
     },
     {
       "platform": "Codeforces",
-      "title": "DeepInfra Round 1 (Codeforces Round, Div. 1 + Div. 2)",
+      "title": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "start_time": 1791644700,
       "end_time": 1791655500,
       "status": "upcoming",
