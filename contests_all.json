@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791081867,
+  "generated_at": 1791103873,
   "contests": [
     {
       "platform": "UOJ",
@@ -16,22 +16,6 @@
       "end_time": 1788667200,
       "status": "finished",
       "url": "https://uoj.ac/contest/113"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/04 16:00start",
-      "start_time": 1788505200,
-      "end_time": 1788508800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260904_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/04 16:00start",
-      "start_time": 1788505200,
-      "end_time": 1788508800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260904_1"
     },
     {
       "platform": "AtCoder",
@@ -1118,7 +1102,7 @@
       "title": "2026牛客国庆集训派对day4",
       "start_time": 1791086400,
       "end_time": 1791104400,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://ac.nowcoder.com/acm/contest/140732"
     },
     {
