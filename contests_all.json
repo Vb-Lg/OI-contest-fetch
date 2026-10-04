@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791103873,
+  "generated_at": 1791124056,
   "contests": [
     {
       "platform": "UOJ",
@@ -16,30 +16,6 @@
       "end_time": 1788667200,
       "status": "finished",
       "url": "https://uoj.ac/contest/113"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/04 18:00start",
-      "start_time": 1788512400,
-      "end_time": 1788516000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260904_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/04 18:00start",
-      "start_time": 1788512400,
-      "end_time": 1788516000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260904_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0150 Beta",
-      "start_time": 1788519600,
-      "end_time": 1788528600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0150"
     },
     {
       "platform": "AtCoder",
@@ -72,14 +48,6 @@
       "end_time": 1788673800,
       "status": "finished",
       "url": "https://atcoder.jp/contests/jsc2026advance-final"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客周赛 Round 160",
-      "start_time": 1788692400,
-      "end_time": 1788699600,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/139989"
     },
     {
       "platform": "AtCoder",
@@ -288,14 +256,6 @@
       "end_time": 1789128000,
       "status": "finished",
       "url": "https://atcoder.jp/contests/awc0155"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客小白月赛137",
-      "start_time": 1789124400,
-      "end_time": 1789131600,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/139936"
     },
     {
       "platform": "AtCoder",
@@ -1098,11 +1058,19 @@
       "url": "https://atcoder.jp/contests/abc478"
     },
     {
+      "platform": "AtCoder",
+      "title": "組合せゲーム 24 題",
+      "start_time": 1791086400,
+      "end_time": 1791104400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/game-24"
+    },
+    {
       "platform": "Nowcoder",
       "title": "2026牛客国庆集训派对day4",
       "start_time": 1791086400,
       "end_time": 1791104400,
-      "status": "running",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/140732"
     },
     {
@@ -1110,7 +1078,7 @@
       "title": "牛客周赛 Round 164",
       "start_time": 1791111600,
       "end_time": 1791118800,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/141142"
     },
     {
@@ -1118,7 +1086,7 @@
       "title": "AtCoder Regular Contest 231",
       "start_time": 1791115200,
       "end_time": 1791122400,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://atcoder.jp/contests/arc231"
     },
     {
