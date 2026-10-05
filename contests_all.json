@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791210317,
+  "generated_at": 1791236155,
   "contests": [
     {
       "platform": "UOJ",
@@ -8,14 +8,6 @@
       "end_time": 1788667200,
       "status": "finished",
       "url": "https://uoj.ac/contest/113"
-    },
-    {
-      "platform": "Codeforces",
-      "title": "Codeforces Round 1119 (Div. 3)",
-      "start_time": 1788619500,
-      "end_time": 1788627600,
-      "status": "finished",
-      "url": "https://codeforces.com/contests/2259"
     },
     {
       "platform": "AtCoder",
