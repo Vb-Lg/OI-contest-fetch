@@ -1,14 +1,6 @@
 {
-  "generated_at": 1791159207,
+  "generated_at": 1791179550,
   "contests": [
-    {
-      "platform": "UOJ",
-      "title": "UOJ Prime Round 2026",
-      "start_time": 1786154400,
-      "end_time": 1788573600,
-      "status": "finished",
-      "url": "https://uoj.ac/contest/112"
-    },
     {
       "platform": "UOJ",
       "title": "UOJ Challenge #1",
@@ -1094,7 +1086,7 @@
       "title": "2026牛客国庆集训派对day5",
       "start_time": 1791172800,
       "end_time": 1791190800,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://ac.nowcoder.com/acm/contest/140733"
     },
     {
