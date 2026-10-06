@@ -1,30 +1,6 @@
 {
-  "generated_at": 1791251550,
+  "generated_at": 1791276768,
   "contests": [
-    {
-      "platform": "UOJ",
-      "title": "UOJ Challenge #1",
-      "start_time": 1786248000,
-      "end_time": 1788667200,
-      "status": "finished",
-      "url": "https://uoj.ac/contest/113"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Beginner Contest 474",
-      "start_time": 1788667800,
-      "end_time": 1788673800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/abc474"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "第七回日本最強プログラマー学生選手権～Advance～",
-      "start_time": 1788667800,
-      "end_time": 1788673800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/jsc2026advance-final"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/09/07 16:00start",
@@ -1118,8 +1094,24 @@
       "title": "2026牛客国庆集训派对day6",
       "start_time": 1791259200,
       "end_time": 1791277200,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://ac.nowcoder.com/acm/contest/140734"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/06 16:00start",
+      "start_time": 1791270000,
+      "end_time": 1791273600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261006_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/06 16:00start",
+      "start_time": 1791270000,
+      "end_time": 1791273600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261006_1"
     },
     {
       "platform": "UOJ",
