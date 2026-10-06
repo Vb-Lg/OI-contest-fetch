@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791276768,
+  "generated_at": 1791301884,
   "contests": [
     {
       "platform": "AtCoder",
@@ -472,14 +472,6 @@
       "end_time": 1789736400,
       "status": "finished",
       "url": "https://atcoder.jp/contests/c-league2026-2-open"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客练习赛157",
-      "start_time": 1789729200,
-      "end_time": 1789738200,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/140236"
     },
     {
       "platform": "AtCoder",
@@ -1094,7 +1086,7 @@
       "title": "2026牛客国庆集训派对day6",
       "start_time": 1791259200,
       "end_time": 1791277200,
-      "status": "running",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/140734"
     },
     {
@@ -1114,12 +1106,36 @@
       "url": "https://atcoder.jp/contests/adt_easy_20261006_1"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/06 18:00start",
+      "start_time": 1791277200,
+      "end_time": 1791280800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261006_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/06 18:00start",
+      "start_time": 1791277200,
+      "end_time": 1791280800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261006_2"
+    },
+    {
       "platform": "UOJ",
       "title": "UOJ Easy Round #14",
       "start_time": 1791280800,
       "end_time": 1791293400,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://uoj.ac/contest/114"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0172 Beta",
+      "start_time": 1791284400,
+      "end_time": 1791288000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0172"
     },
     {
       "platform": "Nowcoder",
