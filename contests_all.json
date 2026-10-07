@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791374738,
+  "generated_at": 1791399211,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1130,11 +1130,19 @@
       "url": "https://atcoder.jp/contests/adt_easy_20261007_2"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0173 Beta",
+      "start_time": 1791370800,
+      "end_time": 1791374400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0173"
+    },
+    {
       "platform": "Codeforces",
       "title": "Codeforces Round 1125 (Div. 3)",
-      "start_time": 1791383700,
-      "end_time": 1791392700,
-      "status": "upcoming",
+      "start_time": 1791384300,
+      "end_time": 1791393300,
+      "status": "finished",
       "url": "https://codeforces.com/contests/2275"
     },
     {
