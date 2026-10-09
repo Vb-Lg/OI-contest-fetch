@@ -1,22 +1,6 @@
 {
-  "generated_at": 1791513072,
+  "generated_at": 1791538433,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/09 16:00start",
-      "start_time": 1788937200,
-      "end_time": 1788940800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260909_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/09 16:00start",
-      "start_time": 1788937200,
-      "end_time": 1788940800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260909_1"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/09/09 18:00start",
@@ -1138,6 +1122,22 @@
       "url": "https://atcoder.jp/contests/awc0174"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/09 16:00start",
+      "start_time": 1791529200,
+      "end_time": 1791532800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261009_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/09 16:00start",
+      "start_time": 1791529200,
+      "end_time": 1791532800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261009_1"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客小白月赛138",
       "start_time": 1791543600,
@@ -1232,6 +1232,14 @@
       "end_time": 1792258500,
       "status": "upcoming",
       "url": "https://codeforces.com/contests/2261"
+    },
+    {
+      "platform": "Nowcoder",
+      "title": "牛客2026年1024程序员节娱乐赛",
+      "start_time": 1792839600,
+      "end_time": 1792850400,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/141819"
     },
     {
       "platform": "AtCoder",
