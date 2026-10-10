@@ -1,46 +1,6 @@
 {
-  "generated_at": 1791615469,
+  "generated_at": 1791639208,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/10 16:00start",
-      "start_time": 1789023600,
-      "end_time": 1789027200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260910_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/10 16:00start",
-      "start_time": 1789023600,
-      "end_time": 1789027200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260910_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/10 18:00start",
-      "start_time": 1789030800,
-      "end_time": 1789034400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260910_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/10 18:00start",
-      "start_time": 1789030800,
-      "end_time": 1789034400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260910_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0154 Beta",
-      "start_time": 1789038000,
-      "end_time": 1789041600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0154"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/09/11 16:00start",
@@ -1138,14 +1098,6 @@
       "url": "https://ac.nowcoder.com/acm/contest/141374"
     },
     {
-      "platform": "AtCoder",
-      "title": "AtCoder Regular Contest++ 232",
-      "start_time": 1791633600,
-      "end_time": 1791642600,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/arc232"
-    },
-    {
       "platform": "Codeforces",
       "title": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "start_time": 1791644700,
@@ -1284,8 +1236,8 @@
     {
       "platform": "AtCoder",
       "title": "AtCoder Grand Contest 079",
-      "start_time": 1793534400,
-      "end_time": 1793545200,
+      "start_time": 1794139200,
+      "end_time": 1794150000,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/agc079"
     }
