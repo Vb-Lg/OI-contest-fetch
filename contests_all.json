@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791639208,
+  "generated_at": 1791655124,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1098,11 +1098,19 @@
       "url": "https://ac.nowcoder.com/acm/contest/141374"
     },
     {
+      "platform": "AtCoder",
+      "title": "第三回 AtCoder Japan Open -予選-  (AtCoder Regular Contest++ 232)",
+      "start_time": 1791633600,
+      "end_time": 1791642600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/arc232"
+    },
+    {
       "platform": "Codeforces",
       "title": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "start_time": 1791644700,
       "end_time": 1791655500,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://codeforces.com/contests/2271"
     },
     {
