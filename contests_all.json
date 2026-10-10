@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791593918,
+  "generated_at": 1791615469,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1202,6 +1202,14 @@
       "url": "https://codeforces.com/contests/2276"
     },
     {
+      "platform": "Nowcoder",
+      "title": "牛客练习赛158",
+      "start_time": 1792148400,
+      "end_time": 1792157400,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/141876"
+    },
+    {
       "platform": "AtCoder",
       "title": "AtCoder Heuristic Contest 073",
       "start_time": 1792216800,
@@ -1227,6 +1235,22 @@
     },
     {
       "platform": "Nowcoder",
+      "title": "牛客周赛 Round 166",
+      "start_time": 1792321200,
+      "end_time": 1792328400,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/141877"
+    },
+    {
+      "platform": "Nowcoder",
+      "title": "牛客挑战赛93",
+      "start_time": 1792753200,
+      "end_time": 1792764000,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/141878"
+    },
+    {
+      "platform": "Nowcoder",
       "title": "牛客2026年1024程序员节娱乐赛",
       "start_time": 1792839600,
       "end_time": 1792850400,
@@ -1248,6 +1272,14 @@
       "end_time": 1794218400,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/ahc074"
+    },
+    {
+      "platform": "Nowcoder",
+      "title": "牛客小白月赛139",
+      "start_time": 1793358000,
+      "end_time": 1793365200,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/141882"
     },
     {
       "platform": "AtCoder",
