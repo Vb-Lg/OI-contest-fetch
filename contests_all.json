@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791655124,
+  "generated_at": 1791668020,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1110,7 +1110,7 @@
       "title": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "start_time": 1791644700,
       "end_time": 1791655500,
-      "status": "running",
+      "status": "finished",
       "url": "https://codeforces.com/contests/2271"
     },
     {
