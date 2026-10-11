@@ -1,46 +1,6 @@
 {
-  "generated_at": 1791699667,
+  "generated_at": 1791724104,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/11 16:00start",
-      "start_time": 1789110000,
-      "end_time": 1789113600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260911_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/11 16:00start",
-      "start_time": 1789110000,
-      "end_time": 1789113600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260911_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/11 18:00start",
-      "start_time": 1789117200,
-      "end_time": 1789120800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260911_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/11 18:00start",
-      "start_time": 1789117200,
-      "end_time": 1789120800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260911_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0155 Beta",
-      "start_time": 1789124400,
-      "end_time": 1789128000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0155"
-    },
     {
       "platform": "AtCoder",
       "title": "JOI 2026/2027 一次予選 (第1回) 過去問",
@@ -568,14 +528,6 @@
       "end_time": 1790442300,
       "status": "finished",
       "url": "https://codeforces.com/contests/2269"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客周赛 Round 163",
-      "start_time": 1790506800,
-      "end_time": 1790514000,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/140737"
     },
     {
       "platform": "AtCoder",
@@ -1114,20 +1066,28 @@
       "url": "https://codeforces.com/contests/2271"
     },
     {
+      "platform": "AtCoder",
+      "title": "bogosort Programming Contest (Div. 1)",
+      "start_time": 1791691200,
+      "end_time": 1791709200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/bogosortcontest_div1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "bogosort Programming Contest (Div. 2)",
+      "start_time": 1791691200,
+      "end_time": 1791709200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/bogosortcontest_div2"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客周赛 Round 165",
       "start_time": 1791716400,
       "end_time": 1791723600,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/141721"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Beginner Contest 479",
-      "start_time": 1791720000,
-      "end_time": 1791726000,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/abc479"
     },
     {
       "platform": "Codeforces",
