@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791724104,
+  "generated_at": 1791742174,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1088,6 +1088,14 @@
       "end_time": 1791723600,
       "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/141721"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "オムロンプログラミングコンテスト2026 （AtCoder Beginner Contest 479）",
+      "start_time": 1791720000,
+      "end_time": 1791726000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/abc479"
     },
     {
       "platform": "Codeforces",
