@@ -1,14 +1,6 @@
 {
-  "generated_at": 1791768271,
+  "generated_at": 1791791742,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "JOI 2026/2027 一次予選 (第1回) 過去問",
-      "start_time": 1789189200,
-      "end_time": 1789194000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/joi2027yo1a"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Beginner Contest 475",
@@ -1112,14 +1104,6 @@
       "end_time": 1791750900,
       "status": "finished",
       "url": "https://codeforces.com/contests/2274"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AAL Contest 001: Let's use segtree!",
-      "start_time": 1791777600,
-      "end_time": 1791795600,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/aalc001"
     },
     {
       "platform": "Codeforces",
