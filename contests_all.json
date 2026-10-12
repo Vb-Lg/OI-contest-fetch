@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791756440,
+  "generated_at": 1791768271,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1192,6 +1192,14 @@
       "end_time": 1792924200,
       "status": "upcoming",
       "url": "https://uoj.ac/contest/115"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Regular Contest++ 233",
+      "start_time": 1792929600,
+      "end_time": 1792938600,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/arc233"
     },
     {
       "platform": "AtCoder",
