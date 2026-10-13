@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791863853,
+  "generated_at": 1791891618,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1130,6 +1130,38 @@
       "url": "https://atcoder.jp/contests/awc0176"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/13 16:00start",
+      "start_time": 1791874800,
+      "end_time": 1791878400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261013_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/13 16:00start",
+      "start_time": 1791874800,
+      "end_time": 1791878400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261013_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/13 18:00start",
+      "start_time": 1791882000,
+      "end_time": 1791885600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261013_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/13 18:00start",
+      "start_time": 1791882000,
+      "end_time": 1791885600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261013_2"
+    },
+    {
       "platform": "Codeforces",
       "title": "Educational Codeforces Round 195 (Rated for Div. 2)",
       "start_time": 1791988500,
@@ -1163,7 +1195,7 @@
     },
     {
       "platform": "Codeforces",
-      "title": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
+      "title": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
       "start_time": 1792247700,
       "end_time": 1792258500,
       "status": "upcoming",
@@ -1200,6 +1232,14 @@
       "end_time": 1792924200,
       "status": "upcoming",
       "url": "https://uoj.ac/contest/115"
+    },
+    {
+      "platform": "Nowcoder",
+      "title": "牛客周赛 Round 167",
+      "start_time": 1792926000,
+      "end_time": 1792933200,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/142115"
     },
     {
       "platform": "AtCoder",
@@ -1240,6 +1280,14 @@
       "end_time": 1793454000,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/abc482"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Beginner Contest 483",
+      "start_time": 1794052800,
+      "end_time": 1794058800,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/abc483"
     },
     {
       "platform": "AtCoder",
