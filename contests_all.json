@@ -1,5 +1,5 @@
 {
-  "generated_at": 1791980945,
+  "generated_at": 1791999200,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1158,7 +1158,7 @@
       "title": "Educational Codeforces Round 195 (Rated for Div. 2)",
       "start_time": 1791988500,
       "end_time": 1791995700,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://codeforces.com/contests/2276"
     },
     {
@@ -1228,8 +1228,8 @@
     {
       "platform": "UOJ",
       "title": "UOJ Easy Round #15",
-      "start_time": 1792909800,
-      "end_time": 1792924200,
+      "start_time": 1792908000,
+      "end_time": 1792922400,
       "status": "upcoming",
       "url": "https://uoj.ac/contest/115"
     },
