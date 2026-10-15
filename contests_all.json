@@ -1,22 +1,6 @@
 {
-  "generated_at": 1792038344,
+  "generated_at": 1792056093,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/15 16:00start",
-      "start_time": 1789455600,
-      "end_time": 1789459200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260915_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/15 16:00start",
-      "start_time": 1789455600,
-      "end_time": 1789459200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260915_1"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/09/15 18:00start",
@@ -1162,6 +1146,30 @@
       "url": "https://codeforces.com/contests/2276"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/15 16:00start",
+      "start_time": 1792047600,
+      "end_time": 1792051200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261015_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/15 16:00start",
+      "start_time": 1792047600,
+      "end_time": 1792051200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261015_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AHC GenAI Rules Trial Contest 2026",
+      "start_time": 1792058400,
+      "end_time": 1792317600,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/ahc_genai_test_2026"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客练习赛158",
       "start_time": 1792148400,
@@ -1224,6 +1232,14 @@
       "end_time": 1792847100,
       "status": "upcoming",
       "url": "https://codeforces.com/contests/2277"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
+      "start_time": 1792843200,
+      "end_time": 1792849200,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/abc481"
     },
     {
       "platform": "UOJ",
