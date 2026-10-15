@@ -1,30 +1,6 @@
 {
-  "generated_at": 1792056093,
+  "generated_at": 1792073682,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/15 18:00start",
-      "start_time": 1789462800,
-      "end_time": 1789466400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260915_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/15 18:00start",
-      "start_time": 1789462800,
-      "end_time": 1789466400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260915_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0157 Beta",
-      "start_time": 1789470000,
-      "end_time": 1789473600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0157"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/09/16 16:00start",
@@ -1163,11 +1139,27 @@
     },
     {
       "platform": "AtCoder",
-      "title": "AHC GenAI Rules Trial Contest 2026",
-      "start_time": 1792058400,
-      "end_time": 1792317600,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/ahc_genai_test_2026"
+      "title": "AtCoder Daily Training ALL 2026/10/15 18:00start",
+      "start_time": 1792054800,
+      "end_time": 1792058400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261015_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/15 18:00start",
+      "start_time": 1792054800,
+      "end_time": 1792058400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261015_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0179 Beta",
+      "start_time": 1792062000,
+      "end_time": 1792065600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0179"
     },
     {
       "platform": "Nowcoder",
