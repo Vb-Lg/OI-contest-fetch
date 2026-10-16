@@ -1,30 +1,6 @@
 {
-  "generated_at": 1792141653,
+  "generated_at": 1792159314,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/16 18:00start",
-      "start_time": 1789549200,
-      "end_time": 1789552800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260916_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/16 18:00start",
-      "start_time": 1789549200,
-      "end_time": 1789552800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260916_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0158 Beta",
-      "start_time": 1789556400,
-      "end_time": 1789560000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0158"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/09/17 16:00start",
@@ -512,14 +488,6 @@
       "end_time": 1790769600,
       "status": "finished",
       "url": "https://atcoder.jp/contests/awc0168"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "2026牛客国庆集训派对day1",
-      "start_time": 1790827200,
-      "end_time": 1790845200,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/140729"
     },
     {
       "platform": "AtCoder",
@@ -1162,11 +1130,35 @@
       "url": "https://atcoder.jp/contests/adt_easy_20261016_1"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/16 18:00start",
+      "start_time": 1792141200,
+      "end_time": 1792144800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261016_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/16 18:00start",
+      "start_time": 1792141200,
+      "end_time": 1792144800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261016_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0180 Beta",
+      "start_time": 1792148400,
+      "end_time": 1792152000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0180"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客练习赛158",
       "start_time": 1792148400,
       "end_time": 1792157400,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/141876"
     },
     {
