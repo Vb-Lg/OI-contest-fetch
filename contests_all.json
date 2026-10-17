@@ -1,38 +1,6 @@
 {
-  "generated_at": 1792217116,
+  "generated_at": 1792233235,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/17 16:00start",
-      "start_time": 1789628400,
-      "end_time": 1789632000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260917_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/17 16:00start",
-      "start_time": 1789628400,
-      "end_time": 1789632000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260917_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/17 18:00start",
-      "start_time": 1789635600,
-      "end_time": 1789639200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260917_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/17 18:00start",
-      "start_time": 1789635600,
-      "end_time": 1789639200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260917_2"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Weekday Contest 0159 Beta",
@@ -1160,6 +1128,14 @@
       "end_time": 1792157400,
       "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/141876"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Heuristic Contest 073",
+      "start_time": 1792216800,
+      "end_time": 1792231200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/ahc073"
     },
     {
       "platform": "AtCoder",
