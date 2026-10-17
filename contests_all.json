@@ -1,5 +1,5 @@
 {
-  "generated_at": 1792200554,
+  "generated_at": 1792217116,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1160,14 +1160,6 @@
       "end_time": 1792157400,
       "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/141876"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Heuristic Contest 073",
-      "start_time": 1792216800,
-      "end_time": 1792231200,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/ahc073"
     },
     {
       "platform": "AtCoder",
