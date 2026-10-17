@@ -1,5 +1,5 @@
 {
-  "generated_at": 1792256517,
+  "generated_at": 1792264510,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1142,7 +1142,7 @@
       "title": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
       "start_time": 1792247700,
       "end_time": 1792258500,
-      "status": "running",
+      "status": "finished",
       "url": "https://codeforces.com/contests/2261"
     },
     {
