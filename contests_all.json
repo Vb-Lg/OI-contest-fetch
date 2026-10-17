@@ -1,14 +1,6 @@
 {
-  "generated_at": 1792233235,
+  "generated_at": 1792245223,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0159 Beta",
-      "start_time": 1789642800,
-      "end_time": 1789646400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0159"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/09/18 16:00start",
@@ -1138,14 +1130,6 @@
       "url": "https://atcoder.jp/contests/ahc073"
     },
     {
-      "platform": "AtCoder",
-      "title": "AtCoder Beginner Contest 480",
-      "start_time": 1792238400,
-      "end_time": 1792244400,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/abc480"
-    },
-    {
       "platform": "Codeforces",
       "title": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
       "start_time": 1792247700,
@@ -1160,6 +1144,14 @@
       "end_time": 1792328400,
       "status": "upcoming",
       "url": "https://ac.nowcoder.com/acm/contest/141877"
+    },
+    {
+      "platform": "UOJ",
+      "title": "UOJ Easy Round #15",
+      "start_time": 1792749600,
+      "end_time": 1792764000,
+      "status": "upcoming",
+      "url": "https://uoj.ac/contest/115"
     },
     {
       "platform": "Nowcoder",
@@ -1194,14 +1186,6 @@
       "url": "https://atcoder.jp/contests/abc481"
     },
     {
-      "platform": "UOJ",
-      "title": "UOJ Easy Round #15",
-      "start_time": 1792908000,
-      "end_time": 1792922400,
-      "status": "upcoming",
-      "url": "https://uoj.ac/contest/115"
-    },
-    {
       "platform": "Nowcoder",
       "title": "牛客周赛 Round 167",
       "start_time": 1792926000,
@@ -1224,6 +1208,14 @@
       "end_time": 1793033400,
       "status": "upcoming",
       "url": "https://codeforces.com/contests/2272"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "Codeforces Round (Div. 3)",
+      "start_time": 1793284500,
+      "end_time": 1793292600,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2278"
     },
     {
       "platform": "AtCoder",
