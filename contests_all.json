@@ -1,5 +1,5 @@
 {
-  "generated_at": 1792245223,
+  "generated_at": 1792256517,
   "contests": [
     {
       "platform": "AtCoder",
@@ -1130,11 +1130,19 @@
       "url": "https://atcoder.jp/contests/ahc073"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選 #2（AtCoder Beginner Contest 480）",
+      "start_time": 1792238400,
+      "end_time": 1792244400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/abc480"
+    },
+    {
       "platform": "Codeforces",
       "title": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
       "start_time": 1792247700,
       "end_time": 1792258500,
-      "status": "upcoming",
+      "status": "running",
       "url": "https://codeforces.com/contests/2261"
     },
     {
