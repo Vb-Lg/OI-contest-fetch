@@ -1,38 +1,6 @@
 {
-  "generated_at": 1792303361,
+  "generated_at": 1792320897,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/18 16:00start",
-      "start_time": 1789714800,
-      "end_time": 1789718400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260918_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/18 16:00start",
-      "start_time": 1789714800,
-      "end_time": 1789718400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260918_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/18 18:00start",
-      "start_time": 1789722000,
-      "end_time": 1789725600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260918_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/18 18:00start",
-      "start_time": 1789722000,
-      "end_time": 1789725600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260918_2"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Weekday Contest 0160 Beta",
@@ -1064,6 +1032,14 @@
       "end_time": 1792058400,
       "status": "finished",
       "url": "https://atcoder.jp/contests/adt_easy_20261015_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AHC GenAI Rules Trial Contest 2026",
+      "start_time": 1792058400,
+      "end_time": 1792317600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/ahc_genai_test_2026"
     },
     {
       "platform": "AtCoder",
