@@ -2,6 +2,10 @@
 
 [en](README.md)/zh
 
+这是后端爬虫。
+
+请看 [vscode-oi-contest-schedule](https://github.com/Vb-Lg/oi-contest-schedule) 和 [oi-contest-schedule](https://github.com/Vb-Lg/oi-contest-schedule)。
+
 从多个在线评测平台抓取编程竞赛日程，并导出为 JSON。仓库中还包含一个简单的 PHP 页面，可以读取生成的 JSON 并展示即将到来的比赛。
 
 ## 支持平台
