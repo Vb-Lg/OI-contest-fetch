@@ -2,6 +2,10 @@
 
 en/[zh](README_zh.md)
 
+This Project is the backend fetcher.
+
+Please see [vscode-oi-contest-schedule](https://github.com/Vb-Lg/vscode-oi-contest-schedule) and [oi-contest-schedule](https://github.com/Vb-Lg/oi-contest-schedule).
+
 Fetch programming contest schedules from several online judge platforms and export them as JSON. The repository also includes a small PHP page that can read the generated JSON and display upcoming contests.
 
 ## Supported Platforms
