@@ -1,22 +1,6 @@
 {
-  "generated_at": 1792919950,
+  "generated_at": 1793010309,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/25 18:00start",
-      "start_time": 1790326800,
-      "end_time": 1790330400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260925_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/25 18:00start",
-      "start_time": 1790326800,
-      "end_time": 1790330400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260925_2"
-    },
     {
       "platform": "AtCoder",
       "title": "ALGO ARTIS プログラミングコンテスト2026 長月（AtCoder Heuristic Contest 072）",
@@ -24,22 +8,6 @@
       "end_time": 1791194400,
       "status": "finished",
       "url": "https://atcoder.jp/contests/ahc072"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0165 Beta",
-      "start_time": 1790334000,
-      "end_time": 1790337600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0165"
-    },
-    {
-      "platform": "Codeforces",
-      "title": "Codeforces Round 1123 (Div. 2)",
-      "start_time": 1790346900,
-      "end_time": 1790355000,
-      "status": "finished",
-      "url": "https://codeforces.com/contests/2267"
     },
     {
       "platform": "AtCoder",
@@ -288,14 +256,6 @@
       "end_time": 1791104400,
       "status": "finished",
       "url": "https://atcoder.jp/contests/game-24"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客周赛 Round 164",
-      "start_time": 1791111600,
-      "end_time": 1791118800,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/141142"
     },
     {
       "platform": "AtCoder",
@@ -1122,11 +1082,19 @@
       "url": "https://atcoder.jp/contests/abc481"
     },
     {
+      "platform": "AtCoder",
+      "title": "JOI 2026/2027 一次予選 (第2回) 過去問",
+      "start_time": 1792904400,
+      "end_time": 1792909200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/joi2027yo1b"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客周赛 Round 167",
       "start_time": 1792926000,
       "end_time": 1792933200,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/142115"
     },
     {
@@ -1134,8 +1102,40 @@
       "title": "AtCoder Regular Contest++ 233",
       "start_time": 1792929600,
       "end_time": 1792938600,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://atcoder.jp/contests/arc233"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/26 16:00start",
+      "start_time": 1792998000,
+      "end_time": 1793001600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261026_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/26 16:00start",
+      "start_time": 1792998000,
+      "end_time": 1793001600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261026_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/26 18:00start",
+      "start_time": 1793005200,
+      "end_time": 1793008800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261026_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/26 18:00start",
+      "start_time": 1793005200,
+      "end_time": 1793008800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261026_2"
     },
     {
       "platform": "Codeforces",
@@ -1240,6 +1240,30 @@
       "end_time": 1794663600,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/abc484"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Beginner Contest 485",
+      "start_time": 1795262400,
+      "end_time": 1795268400,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/abc485"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Regular Contest++ 234",
+      "start_time": 1795348800,
+      "end_time": 1795357800,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/arc234"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "Kotlin Heroes: Episode 15",
+      "start_time": 1795790100,
+      "end_time": 1795799100,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2282"
     }
   ]
 }
