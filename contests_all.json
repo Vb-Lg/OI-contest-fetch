@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793271742,
+  "generated_at": 1793357946,
   "contests": [
     {
       "platform": "AtCoder",
@@ -8,46 +8,6 @@
       "end_time": 1791194400,
       "status": "finished",
       "url": "https://atcoder.jp/contests/ahc072"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0167 Beta",
-      "start_time": 1790679600,
-      "end_time": 1790683200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0167"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/30 16:00start",
-      "start_time": 1790751600,
-      "end_time": 1790755200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260930_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/30 16:00start",
-      "start_time": 1790751600,
-      "end_time": 1790755200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260930_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/09/30 18:00start",
-      "start_time": 1790758800,
-      "end_time": 1790762400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20260930_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/09/30 18:00start",
-      "start_time": 1790758800,
-      "end_time": 1790762400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20260930_2"
     },
     {
       "platform": "AtCoder",
@@ -1163,11 +1123,43 @@
     },
     {
       "platform": "AtCoder",
-      "title": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
-      "start_time": 1793354400,
-      "end_time": 1794218400,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/ahc074"
+      "title": "AtCoder Weekday Contest 0189 Beta",
+      "start_time": 1793271600,
+      "end_time": 1793275200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0189"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/30 16:00start",
+      "start_time": 1793343600,
+      "end_time": 1793347200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261030_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/30 16:00start",
+      "start_time": 1793343600,
+      "end_time": 1793347200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261030_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/10/30 18:00start",
+      "start_time": 1793350800,
+      "end_time": 1793354400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261030_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/10/30 18:00start",
+      "start_time": 1793350800,
+      "end_time": 1793354400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261030_2"
     },
     {
       "platform": "Nowcoder",
@@ -1258,12 +1250,28 @@
       "url": "https://codeforces.com/contests/2280"
     },
     {
+      "platform": "Nowcoder",
+      "title": "牛客周赛 Round 169",
+      "start_time": 1794135600,
+      "end_time": 1794142800,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/143199"
+    },
+    {
       "platform": "AtCoder",
       "title": "AtCoder Grand Contest 079",
       "start_time": 1794139200,
       "end_time": 1794150000,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/agc079"
+    },
+    {
+      "platform": "Nowcoder",
+      "title": "牛客小白月赛140",
+      "start_time": 1794567600,
+      "end_time": 1794574800,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/143195"
     },
     {
       "platform": "AtCoder",
@@ -1280,6 +1288,14 @@
       "end_time": 1794760500,
       "status": "upcoming",
       "url": "https://codeforces.com/contests/2285"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "Kotlin Heroes: Practice 15",
+      "start_time": 1795185000,
+      "end_time": 1795789800,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2286"
     },
     {
       "platform": "AtCoder",
