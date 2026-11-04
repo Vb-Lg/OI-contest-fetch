@@ -1,62 +1,6 @@
 {
-  "generated_at": 1793708051,
+  "generated_at": 1793795183,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "ALGO ARTIS プログラミングコンテスト2026 長月（AtCoder Heuristic Contest 072）",
-      "start_time": 1790331000,
-      "end_time": 1791194400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/ahc072"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Regular Contest 231",
-      "start_time": 1791115200,
-      "end_time": 1791122400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/arc231"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/05 16:00start",
-      "start_time": 1791183600,
-      "end_time": 1791187200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261005_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/05 16:00start",
-      "start_time": 1791183600,
-      "end_time": 1791187200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261005_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/05 18:00start",
-      "start_time": 1791190800,
-      "end_time": 1791194400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261005_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/05 18:00start",
-      "start_time": 1791190800,
-      "end_time": 1791194400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261005_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0171 Beta",
-      "start_time": 1791198000,
-      "end_time": 1791201600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0171"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/10/06 16:00start",
@@ -1162,6 +1106,46 @@
       "url": "https://atcoder.jp/contests/awc0192"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/04 16:00start",
+      "start_time": 1793775600,
+      "end_time": 1793779200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261104_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/04 16:00start",
+      "start_time": 1793775600,
+      "end_time": 1793779200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261104_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/04 18:00start",
+      "start_time": 1793782800,
+      "end_time": 1793786400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261104_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/04 18:00start",
+      "start_time": 1793782800,
+      "end_time": 1793786400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261104_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0193 Beta",
+      "start_time": 1793790000,
+      "end_time": 1793793600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0193"
+    },
+    {
       "platform": "Codeforces",
       "title": "Educational Codeforces Round 196 (Rated for Div. 2)",
       "start_time": 1793802900,
@@ -1328,6 +1312,22 @@
       "end_time": 1796749500,
       "status": "upcoming",
       "url": "https://codeforces.com/contests/2282"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Grand Contest 080",
+      "start_time": 1797163200,
+      "end_time": 1797174000,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/agc080"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Grand Contest 081",
+      "start_time": 1798372800,
+      "end_time": 1798383600,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/agc081"
     }
   ]
 }
