@@ -1,38 +1,6 @@
 {
-  "generated_at": 1793795183,
+  "generated_at": 1793882413,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/06 16:00start",
-      "start_time": 1791270000,
-      "end_time": 1791273600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261006_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/06 16:00start",
-      "start_time": 1791270000,
-      "end_time": 1791273600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261006_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/06 18:00start",
-      "start_time": 1791277200,
-      "end_time": 1791280800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261006_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/06 18:00start",
-      "start_time": 1791277200,
-      "end_time": 1791280800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261006_2"
-    },
     {
       "platform": "UOJ",
       "title": "UOJ Easy Round #14",
@@ -40,14 +8,6 @@
       "end_time": 1791293400,
       "status": "finished",
       "url": "https://uoj.ac/contest/114"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0172 Beta",
-      "start_time": 1791284400,
-      "end_time": 1791288000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0172"
     },
     {
       "platform": "Nowcoder",
@@ -1148,10 +1108,50 @@
     {
       "platform": "Codeforces",
       "title": "Educational Codeforces Round 196 (Rated for Div. 2)",
-      "start_time": 1793802900,
-      "end_time": 1793810100,
-      "status": "upcoming",
+      "start_time": 1793803500,
+      "end_time": 1793810700,
+      "status": "finished",
       "url": "https://codeforces.com/contests/2283"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/05 16:00start",
+      "start_time": 1793862000,
+      "end_time": 1793865600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261105_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/05 16:00start",
+      "start_time": 1793862000,
+      "end_time": 1793865600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261105_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/05 18:00start",
+      "start_time": 1793869200,
+      "end_time": 1793872800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261105_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/05 18:00start",
+      "start_time": 1793869200,
+      "end_time": 1793872800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261105_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0194 Beta",
+      "start_time": 1793876400,
+      "end_time": 1793880000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0194"
     },
     {
       "platform": "Nowcoder",
@@ -1163,7 +1163,7 @@
     },
     {
       "platform": "Codeforces",
-      "title": "Codeforces Round (Div. 2)",
+      "title": "Codeforces Round 1132 (Div. 2)",
       "start_time": 1793975700,
       "end_time": 1793983800,
       "status": "upcoming",
@@ -1179,7 +1179,7 @@
     },
     {
       "platform": "Codeforces",
-      "title": "Codeforces Round (Div. 1)",
+      "title": "Codeforces Round 1133 (Div. 1)",
       "start_time": 1794062100,
       "end_time": 1794071100,
       "status": "upcoming",
@@ -1187,7 +1187,7 @@
     },
     {
       "platform": "Codeforces",
-      "title": "Codeforces Round (Div. 2)",
+      "title": "Codeforces Round 1133 (Div. 2)",
       "start_time": 1794062100,
       "end_time": 1794071100,
       "status": "upcoming",
