@@ -1,46 +1,6 @@
 {
-  "generated_at": 1794573098,
+  "generated_at": 1794656484,
   "contests": [
-    {
-      "platform": "Codeforces",
-      "title": "Educational Codeforces Round 195 (Rated for Div. 2)",
-      "start_time": 1791988500,
-      "end_time": 1791995700,
-      "status": "finished",
-      "url": "https://codeforces.com/contests/2276"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/15 16:00start",
-      "start_time": 1792047600,
-      "end_time": 1792051200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261015_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/15 16:00start",
-      "start_time": 1792047600,
-      "end_time": 1792051200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261015_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/15 18:00start",
-      "start_time": 1792054800,
-      "end_time": 1792058400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261015_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/15 18:00start",
-      "start_time": 1792054800,
-      "end_time": 1792058400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261015_2"
-    },
     {
       "platform": "AtCoder",
       "title": "AHC GenAI Rules Trial Contest 2026",
@@ -96,14 +56,6 @@
       "end_time": 1792152000,
       "status": "finished",
       "url": "https://atcoder.jp/contests/awc0180"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客练习赛158",
-      "start_time": 1792148400,
-      "end_time": 1792157400,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/141876"
     },
     {
       "platform": "AtCoder",
@@ -1126,8 +1078,16 @@
       "title": "牛客小白月赛140",
       "start_time": 1794567600,
       "end_time": 1794574800,
-      "status": "running",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/143195"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0200 Beta",
+      "start_time": 1794567600,
+      "end_time": 1794576600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0200"
     },
     {
       "platform": "AtCoder",
