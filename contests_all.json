@@ -1,30 +1,6 @@
 {
-  "generated_at": 1794834240,
+  "generated_at": 1794923116,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AHC GenAI Rules Trial Contest 2026",
-      "start_time": 1792058400,
-      "end_time": 1792317600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/ahc_genai_test_2026"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選 #2（AtCoder Beginner Contest 480）",
-      "start_time": 1792238400,
-      "end_time": 1792244400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/abc480"
-    },
-    {
-      "platform": "Codeforces",
-      "title": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
-      "start_time": 1792247700,
-      "end_time": 1792258500,
-      "status": "finished",
-      "url": "https://codeforces.com/contests/2261"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/10/19 16:00start",
@@ -1088,6 +1064,46 @@
       "end_time": 1794830400,
       "status": "finished",
       "url": "https://atcoder.jp/contests/awc0201"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/17 16:00start",
+      "start_time": 1794898800,
+      "end_time": 1794902400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261117_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/17 16:00start",
+      "start_time": 1794898800,
+      "end_time": 1794902400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261117_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/17 18:00start",
+      "start_time": 1794906000,
+      "end_time": 1794909600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261117_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/17 18:00start",
+      "start_time": 1794906000,
+      "end_time": 1794909600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261117_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0202 Beta",
+      "start_time": 1794913200,
+      "end_time": 1794916800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0202"
     },
     {
       "platform": "Nowcoder",
