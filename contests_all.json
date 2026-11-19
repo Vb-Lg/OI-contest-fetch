@@ -1,46 +1,6 @@
 {
-  "generated_at": 1795008056,
+  "generated_at": 1795095983,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/20 16:00start",
-      "start_time": 1792479600,
-      "end_time": 1792483200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261020_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/20 16:00start",
-      "start_time": 1792479600,
-      "end_time": 1792483200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261020_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/20 18:00start",
-      "start_time": 1792486800,
-      "end_time": 1792490400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261020_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/20 18:00start",
-      "start_time": 1792486800,
-      "end_time": 1792490400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261020_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0182 Beta",
-      "start_time": 1792494000,
-      "end_time": 1792497600,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0182"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/10/21 16:00start",
@@ -1106,6 +1066,46 @@
       "url": "https://atcoder.jp/contests/awc0203"
     },
     {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/19 16:00start",
+      "start_time": 1795071600,
+      "end_time": 1795075200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261119_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/19 16:00start",
+      "start_time": 1795071600,
+      "end_time": 1795075200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261119_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/19 18:00start",
+      "start_time": 1795078800,
+      "end_time": 1795082400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261119_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/19 18:00start",
+      "start_time": 1795078800,
+      "end_time": 1795082400,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261119_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0204 Beta",
+      "start_time": 1795086000,
+      "end_time": 1795089600,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0204"
+    },
+    {
       "platform": "Nowcoder",
       "title": "牛客挑战赛94",
       "start_time": 1795172400,
@@ -1131,7 +1131,7 @@
     },
     {
       "platform": "Codeforces",
-      "title": "Codeforces Round (Div. 1)",
+      "title": "Codeforces Round 1136 (Div. 1)",
       "start_time": 1795271700,
       "end_time": 1795278900,
       "status": "upcoming",
@@ -1139,7 +1139,7 @@
     },
     {
       "platform": "Codeforces",
-      "title": "Codeforces Round (Div. 2)",
+      "title": "Codeforces Round 1136 (Div. 2)",
       "start_time": 1795271700,
       "end_time": 1795278900,
       "status": "upcoming",
@@ -1147,7 +1147,7 @@
     },
     {
       "platform": "Codeforces",
-      "title": "Codeforces Round (Div. 2)",
+      "title": "Codeforces Round 1137 (Div. 2)",
       "start_time": 1795338300,
       "end_time": 1795345500,
       "status": "upcoming",
@@ -1240,6 +1240,14 @@
       "end_time": 1797174000,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/agc080"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner Contest 489)",
+      "start_time": 1797768000,
+      "end_time": 1797774000,
+      "status": "upcoming",
+      "url": "https://atcoder.jp/contests/abc489"
     },
     {
       "platform": "AtCoder",
