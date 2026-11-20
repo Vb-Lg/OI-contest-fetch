@@ -21,7 +21,7 @@
 
 - `contests_all.json`：尚未结束的比赛，包括尚未开始和正在进行中的比赛，以及最近 30 天内已经结束的比赛。
 
-JSON 文件的顶层结构如下。`generated_at` 是文件写入时的秒级 Unix 时间戳。
+JSON 文件的顶层结构如下。`generated_at` 是比赛数据最后一次变化时的秒级 Unix 时间戳。如果某次运行得到的 `contests` 数组与现有文件相同，则沿用原有的 `generated_at`，使文件内容保持不变，也不会产生提交。
 
 ```json
 {

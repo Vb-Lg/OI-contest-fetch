@@ -21,7 +21,7 @@ Running the fetch script writes one JSON file to the repository root:
 
 - `contests_all.json`: contests that have not ended yet, including upcoming and currently running contests, plus contests that finished within the last 30 days.
 
-The JSON file has this top-level shape. `generated_at` is the Unix timestamp in seconds when the file was written.
+The JSON file has this top-level shape. `generated_at` is the Unix timestamp in seconds when the contest data last changed. When a run produces the same `contests` array as the existing file, the previous `generated_at` is kept so the file stays byte-identical and no commit is created.
 
 ```json
 {

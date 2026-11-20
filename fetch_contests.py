@@ -233,7 +233,6 @@ def fetch_nowcoder(include_all=False, min_end_time=None):
         return []
 
 def main():
-    generated_at = now_ts()
     all_contests = []
     all_contests.extend(fetch_codeforces())
     all_contests.extend(fetch_atcoder())
@@ -251,8 +250,29 @@ def main():
     all_contests = deduplicate_contests(all_contests + recent_finished_contests)
     all_contests.sort(key=lambda x: (x["start_time"], x["end_time"]))
 
-    with open("contests_all.json", "w", encoding="utf-8") as f:
-        json.dump(contest_payload(all_contests, generated_at), f, ensure_ascii=False, indent=2)
+    output_path = "contests_all.json"
+    generated_at = now_ts()
+
+    # Reuse the previous generated_at when the contest data is unchanged, so the
+    # file stays byte-identical and does not create a pointless commit.
+    try:
+        with open(output_path, encoding="utf-8") as f:
+            previous_payload = json.load(f)
+        if (
+            isinstance(previous_payload, dict)
+            and previous_payload.get("contests") == all_contests
+        ):
+            generated_at = previous_payload.get("generated_at", generated_at)
+    except (OSError, json.JSONDecodeError):
+        pass
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(
+            contest_payload(all_contests, generated_at),
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
 
     print(f"Total active contests: {sum(1 for contest in all_contests if contest['status'] != 'finished')}")
     print(f"Total contests finished in last 30 days: {len(recent_finished_contests)}")

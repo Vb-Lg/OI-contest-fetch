@@ -33,6 +33,7 @@ When removing a provider, remove or adjust the same surfaces so stale platform l
 ## Output Contracts
 
 - `contests_all.json` is an object with `generated_at` and `contests`; `contests` contains contests that have not ended yet (`upcoming` and `running`) plus contests that finished within the last 30 days.
+- `generated_at` marks when the data last changed, not when the script last ran: `main()` reuses the previous value when the newly built `contests` array equals the one already on disk, so an idle run leaves the file byte-identical and produces no workflow commit. The workflow therefore commits only real data changes.
 - JSON timestamps are Unix timestamps in seconds.
 - Keep record keys stable unless the README files and server rendering are updated in the same change.
 
