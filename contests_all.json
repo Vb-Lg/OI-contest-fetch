@@ -1,46 +1,6 @@
 {
-  "generated_at": 1795181354,
+  "generated_at": 1795265754,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/22 16:00start",
-      "start_time": 1792652400,
-      "end_time": 1792656000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261022_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/22 16:00start",
-      "start_time": 1792652400,
-      "end_time": 1792656000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261022_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/22 18:00start",
-      "start_time": 1792659600,
-      "end_time": 1792663200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261022_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/22 18:00start",
-      "start_time": 1792659600,
-      "end_time": 1792663200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261022_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0184 Beta",
-      "start_time": 1792666800,
-      "end_time": 1792670400,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0184"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/10/23 16:00start",
@@ -88,14 +48,6 @@
       "end_time": 1792756800,
       "status": "finished",
       "url": "https://atcoder.jp/contests/awc0185"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客挑战赛93",
-      "start_time": 1792753200,
-      "end_time": 1792764000,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/141878"
     },
     {
       "platform": "Nowcoder",
@@ -1126,24 +1078,16 @@
       "title": "牛客挑战赛94",
       "start_time": 1795172400,
       "end_time": 1795183200,
-      "status": "running",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/143407"
     },
     {
       "platform": "UOJ",
       "title": "UOJ NOIP Round 2026 (UOJ Round #35)",
       "start_time": 1795221000,
-      "end_time": 1795237200,
-      "status": "upcoming",
+      "end_time": 1795238100,
+      "status": "finished",
       "url": "https://uoj.ac/contest/116"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Beginner Contest 485",
-      "start_time": 1795262400,
-      "end_time": 1795268400,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/abc485"
     },
     {
       "platform": "Codeforces",
@@ -1232,6 +1176,14 @@
       "end_time": 1796478000,
       "status": "upcoming",
       "url": "https://atcoder.jp/contests/abc487"
+    },
+    {
+      "platform": "Codeforces",
+      "title": "ICPC 2026 Online Challenge 2 powered by Huawei",
+      "start_time": 1796727600,
+      "end_time": 1797937200,
+      "status": "upcoming",
+      "url": "https://codeforces.com/contests/2291"
     },
     {
       "platform": "Codeforces",
