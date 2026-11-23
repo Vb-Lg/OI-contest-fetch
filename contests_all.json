@@ -1,38 +1,6 @@
 {
-  "generated_at": 1795351705,
+  "generated_at": 1795446751,
   "contests": [
-    {
-      "platform": "UOJ",
-      "title": "UOJ CSP-S Round 2026 (UOJ Easy Round #15)",
-      "start_time": 1792749600,
-      "end_time": 1792764000,
-      "status": "finished",
-      "url": "https://uoj.ac/contest/115"
-    },
-    {
-      "platform": "Nowcoder",
-      "title": "牛客2026年1024程序员节娱乐赛",
-      "start_time": 1792839600,
-      "end_time": 1792850400,
-      "status": "finished",
-      "url": "https://ac.nowcoder.com/acm/contest/141819"
-    },
-    {
-      "platform": "Codeforces",
-      "title": "Codeforces Round 1129 (Div. 2)",
-      "start_time": 1792839900,
-      "end_time": 1792848000,
-      "status": "finished",
-      "url": "https://codeforces.com/contests/2277"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "SMBCプログラミングコンテスト #2（AtCoder Beginner Contest 481）",
-      "start_time": 1792843200,
-      "end_time": 1792849200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/abc481"
-    },
     {
       "platform": "AtCoder",
       "title": "JOI 2026/2027 一次予選 (第2回) 過去問",
@@ -1086,8 +1054,56 @@
       "title": "牛客周赛 Round 171",
       "start_time": 1795345200,
       "end_time": 1795352400,
-      "status": "running",
+      "status": "finished",
       "url": "https://ac.nowcoder.com/acm/contest/144189"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Regular Contest++ 234",
+      "start_time": 1795348800,
+      "end_time": 1795357800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/arc234"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/23 16:00start",
+      "start_time": 1795417200,
+      "end_time": 1795420800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261123_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/23 16:00start",
+      "start_time": 1795417200,
+      "end_time": 1795420800,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261123_1"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training ALL 2026/11/23 18:00start",
+      "start_time": 1795424400,
+      "end_time": 1795428000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_all_20261123_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Daily Training EASY 2026/11/23 18:00start",
+      "start_time": 1795424400,
+      "end_time": 1795428000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/adt_easy_20261123_2"
+    },
+    {
+      "platform": "AtCoder",
+      "title": "AtCoder Weekday Contest 0206 Beta",
+      "start_time": 1795431600,
+      "end_time": 1795435200,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/awc0206"
     },
     {
       "platform": "Nowcoder",
@@ -1128,6 +1144,14 @@
       "end_time": 1796740200,
       "status": "upcoming",
       "url": "https://codeforces.com/contests/2286"
+    },
+    {
+      "platform": "Nowcoder",
+      "title": "牛客小白月赛141",
+      "start_time": 1796382000,
+      "end_time": 1796389200,
+      "status": "upcoming",
+      "url": "https://ac.nowcoder.com/acm/contest/144700"
     },
     {
       "platform": "AtCoder",
