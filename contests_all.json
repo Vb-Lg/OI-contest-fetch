@@ -1,46 +1,6 @@
 {
-  "generated_at": 1795788717,
+  "generated_at": 1795872537,
   "contests": [
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/29 16:00start",
-      "start_time": 1793257200,
-      "end_time": 1793260800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261029_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/29 16:00start",
-      "start_time": 1793257200,
-      "end_time": 1793260800,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261029_1"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training ALL 2026/10/29 18:00start",
-      "start_time": 1793264400,
-      "end_time": 1793268000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_all_20261029_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Daily Training EASY 2026/10/29 18:00start",
-      "start_time": 1793264400,
-      "end_time": 1793268000,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/adt_easy_20261029_2"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Weekday Contest 0189 Beta",
-      "start_time": 1793271600,
-      "end_time": 1793275200,
-      "status": "finished",
-      "url": "https://atcoder.jp/contests/awc0189"
-    },
     {
       "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/10/30 16:00start",
@@ -1091,6 +1051,14 @@
     },
     {
       "platform": "AtCoder",
+      "title": "YCPC 2026",
+      "start_time": 1795768200,
+      "end_time": 1795779000,
+      "status": "finished",
+      "url": "https://atcoder.jp/contests/ycpc2026"
+    },
+    {
+      "platform": "AtCoder",
       "title": "AtCoder Daily Training ALL 2026/11/27 18:00start",
       "start_time": 1795770000,
       "end_time": 1795773600,
@@ -1126,16 +1094,8 @@
       "title": "Codeforces Round 1138 (Div. 3)",
       "start_time": 1795790100,
       "end_time": 1795798200,
-      "status": "upcoming",
+      "status": "finished",
       "url": "https://codeforces.com/contests/2292"
-    },
-    {
-      "platform": "AtCoder",
-      "title": "AtCoder Beginner Contest 486",
-      "start_time": 1795867200,
-      "end_time": 1795873200,
-      "status": "upcoming",
-      "url": "https://atcoder.jp/contests/abc486"
     },
     {
       "platform": "Nowcoder",
